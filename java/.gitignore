@@ -1,0 +1,8 @@
+out/
+*.zip
+.DS_Store
+.idea/
+*.iml
+
+/trove-3.0.3/
+jars/
